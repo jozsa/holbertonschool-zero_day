@@ -1,0 +1,1 @@
+This file shows what typing the "uname" command while ssh'd into ubuntu results in.
