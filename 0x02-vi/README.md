@@ -14,6 +14,5 @@ File | Task
 6-end_line | Move cursor to end of line
 100-move_to_line | Move cursor to line 32
 101-delete_line | Delete current and previous line at the same time
-
-##Author
+## Author
 Allison Weiner
