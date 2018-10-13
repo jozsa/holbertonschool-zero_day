@@ -14,5 +14,5 @@ File | Task
 6-quitting | Quit Emacs
 100-tetris | Play Tetris inside Emacs
 101-doctor | Talk to my doctor
-##Author
+## Author
 Allison Weiner
